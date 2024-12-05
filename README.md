@@ -5,16 +5,7 @@
 
 <h2 align="left">About Me:</h2>
 <p align="left">
-  I am a Front-end Developer skilled in <strong>React</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>. I focus on creating websites that are  
-   <strong>Fully Responsive</strong> to ensure great usability on all devices.  
-   <strong>High Performance</strong> for fast-loading experiences.  
-   <strong>SEO-Friendly</strong> to improve visibility and search rankings.  
-   <strong>Pixel-Perfect Designs</strong> to match UI/UX goals exactly.  
-   <strong>Accessible</strong> to ensure inclusivity for all users.  
-
-  I focus on developing scalable and dynamic solutions tailored to <strong>business needs</strong>. I know how to work on <strong>data fetching</strong>, <strong>state management</strong>, and <strong>dynamic content</strong>. Additionally, I have experience with back-end technologies like <strong>MongoDB</strong>, <strong>Express.js</strong>, and <strong>Node.js</strong>.  
-  I understand how to build applications with <strong>authentication</strong>, <strong>JWT</strong>, <strong>private routes</strong>, and <strong>real-time communication</strong> using <strong>Socket.io</strong>. With a programming foundation in <strong>C++</strong>, I bring problem-solving and innovative thinking to every project.  
-  I am continuously learning and improving my skills to build exceptional web solutions that meet both user and business goals.
+  I am a passionate <strong>Front-end Developer</strong> with skills in <strong>React</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>. I focus on creating <strong>Fast</strong>, <strong>SEO-friendly</strong>, <strong>Accessible</strong>, and fully <strong>Responsive</strong> websites with <strong>pixel-perfect designs</strong> that provide good <strong>user experiences</strong> and meet <strong>business goals</strong>. I have experience working with <strong>data fetching</strong>, <strong>state management</strong>, and <strong>dynamic content</strong>. Besides front-end development, I also know the basics of <strong>UI/UX design</strong> and <strong>networking</strong>. I have also skills in <strong>back-end technologies</strong>, such as <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>Node.js</strong>. I understand how to work with <strong>authentication</strong>, <strong>authorization</strong>, <strong>JWT</strong>, <strong>private routes</strong>, and <strong>real-time communication</strong> with <strong>Socket.io</strong>. I also know how to build <strong>REST APIs</strong>, I enjoy solving problems and have learned <strong>programming concepts</strong> with <strong>C++</strong>, which helps me approach challenges in different ways. I make sure web applications work well and are easy to <strong>scale</strong>. I am always excited to learn more and improve my skills to build solutions that meet both <strong>user needs</strong> and <strong>business goals</strong>.
 </p>
 
 ---
