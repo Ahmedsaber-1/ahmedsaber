@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Saber</h1>
-<h3 align="center">Frontend Developer | React.js | Next.js </h3>
+<h3 align="center">Frontend Developer | React.js </h3>
 
 ---
 
@@ -36,14 +36,6 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="100" height="100"/> 
   </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"
-    alt="Next.js"
-    width="100"
-    height="100"
-  />
-</a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"width="100" height="100"/> 
   </a> 
