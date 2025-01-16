@@ -5,7 +5,7 @@
 
 <h2 align="left">About Me:</h2>
 <p align="left">
-  I am a <strong>Front-end Developer</strong> with skills in <strong>React</strong>, and <strong>TypeScript</strong>. I focus on creating <strong>Fast</strong>, <strong>SEO-friendly</strong>, <strong>Accessible</strong>, and fully <strong>Responsive</strong> websites with <strong>pixel-perfect designs</strong> that provide good <strong>user experiences</strong> and meet <strong>business goals</strong>. I have experience working with <strong>data fetching</strong>, <strong>state management</strong>, and <strong>dynamic content</strong>. Besides front-end development, I also know the basics of <strong>UI/UX design</strong> and <strong>networking</strong>. I have also skills in <strong>back-end technologies</strong>, such as <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>Node.js</strong>. I understand how to work with <strong>authentication</strong>, <strong>authorization</strong>, <strong>private routes</strong>, and <strong>real-time communication</strong> with <strong>Socket.io</strong>. I also know how to build <strong>REST APIs</strong>, I enjoy solving problems , which helps me approach challenges in different ways. I make sure web applications work well and are easy to <strong>scale</strong>. I am always excited to learn more and improve my skills to build solutions that meet both <strong>user needs</strong> and <strong>business goals</strong>.
+  I am a <strong>Front-end Developer</strong> with skills in <strong>React</strong>,<strong>Next.js</strong>, and <strong>TypeScript</strong>. I focus on creating <strong>Fast</strong>, <strong>SEO-friendly</strong>, <strong>Accessible</strong>, and fully <strong>Responsive</strong> websites with <strong>pixel-perfect designs</strong> that provide good <strong>user experiences</strong> and meet <strong>business goals</strong>. I have experience working with <strong>data fetching</strong>, <strong>state management</strong>, and <strong>dynamic content</strong>. Besides front-end development, I also know the basics of <strong>UI/UX design</strong> and <strong>networking</strong>. I have also skills in <strong>back-end technologies</strong>, such as <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>Node.js</strong>. I understand how to work with <strong>authentication</strong>, <strong>authorization</strong>, <strong>private routes</strong>, and <strong>real-time communication</strong> with <strong>Socket.io</strong>. I also know how to build <strong>REST APIs</strong>, I enjoy solving problems , which helps me approach challenges in different ways. I make sure web applications work well and are easy to <strong>scale</strong>. I am always excited to learn more and improve my skills to build solutions that meet both <strong>user needs</strong> and <strong>business goals</strong>.
 </p>
 
 ---
@@ -33,6 +33,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="100" height="100"/> 
   </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="100" height="100"/>
+  </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="100" height="100"/> 
   </a> 
